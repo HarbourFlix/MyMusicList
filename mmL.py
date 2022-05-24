@@ -240,5 +240,5 @@ def main():
             pass
         else:
             further = False
-
-main()
+if __name__=='__main__'
+        main()
